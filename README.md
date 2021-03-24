@@ -17,6 +17,8 @@ Upon running the 'mainmodule.py', the class is imported and the user can ask for
 
 The results are saved down in a separate folder named 'output folder' in the working directory (the program automatically creates it, no need to manually do it).
 
+All modules (excluding the 'paramhandling.py') are uploaded in both '.py' and '.ipynb' format.
+
 In case you have any advice, questions or suggestions, please feel free to contact me at jutasiroland89@gmail.com.
 
 ***The results are not to be taken as an investment advice, they serve only as an introduction of basic financial principals and their application using Python 3.8.***
