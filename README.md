@@ -11,7 +11,7 @@ As per the latest update, the following modules are ready to use (the 'mainmodul
 Other files in the project folder:
 - 'requirements.txt': to create a virtual enviroment that contains the necessary libraries (I added some extra packages that will be used in the later modules)
 - 'paramhandling.py': contains a class that reads and uses the configuration file
-- 'input_parameters.ini': the configuration file created
+- 'input_parameters.ini': the configuration file with the input parameters
 
 Upon running the 'mainmodule.py', the class is imported and the user can ask for information/description about the parameters exported from the config file as well as their default values. Should she/he require to alter the default values, the option is given during the runtime, please refrain from editting the 'input_parameters.ini' file. 
 
