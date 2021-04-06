@@ -17,7 +17,7 @@ Upon running the 'mainmodule.py', the class is imported and the user can ask for
 
 The results are saved down in a separate folder named 'output folder' in the working directory (the program automatically creates it, no need to manually do it).
 
-All modules are uploaded in ".py" format, except for the mainmodule, which is in a Jupyter Notebook (.ipynb) file format. Jupyter Notebook is to be used as a run IDE of the mainmodule (otherwise additional modifications are required).
+All modules are uploaded in both ".py" and ".ipynb" format, except for the mainmodule, which is uploaded only in a Jupyter Notebook (.ipynb) file format. Jupyter Notebook is to be used as a run IDE of the mainmodule (otherwise additional modifications are required).
 
 In case you have any advice, questions or suggestions, please feel free to contact me at jutasiroland89@gmail.com.
 
