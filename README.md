@@ -9,7 +9,7 @@ As per the latest update, the following modules are ready to use (the 'mainmodul
 3. 'portfoliogenerator.py': huge number of random portfolio generated to create the 'efficient frontier' (https://en.wikipedia.org/wiki/Efficient_frontier): these are the best (most diversified) portfolios with the highest yield on a certain level of volatility (measure for riskiness) or the lowest level of volatility on a certain level of return.
 
 Other files in the project folder:
-- 'requirements.txt': to create a virtual enviroment that contains the necessary libraries (I added some extra packages that will be used in the later modules)
+- 'requirements.txt': to create a virtual enviroment that contains the necessary libraries (I added some extra packages that will be used in the later modules). (For package installation from '.txt' file: https://stackoverflow.com/questions/7225900/how-can-i-install-packages-using-pip-according-to-the-requirements-txt-file-from)
 - 'paramhandling.py': contains a class that reads and uses the configuration file
 - 'input_parameters.ini': the configuration file with the input parameters
 
